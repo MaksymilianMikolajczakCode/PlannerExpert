@@ -27,10 +27,11 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
+    "setup-production":"npm run install-client && npm run build-client && npm install",
     "build-client": "cd client && npm run build",
     "install-client": "cd client && npm install",
     "start": "nodemon server",
-    "heroku-postbuild": "npm run install-client && npm run build-client"
+    "server": "nodemon server --ignore client"
   },
   "keywords": [],
   "author": "",
