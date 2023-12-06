@@ -4,7 +4,7 @@
 <body>
   <h1>Project Name: PlannerExpert</h1>
   <h2>Live Website</h2>
-  <p><a href="https://planner-expert.onrender.com/landing</a> (may take a second to boot)</p>
+  <p><a href="https://planner-expert.onrender.com/landing">https://planner-expert.onrender.com/landing</a> (may take a second to boot)</p>
   <p>Testing Account - Email: test@test.com     Password: test123</p>
 
   <h2>Tech used</h2>
